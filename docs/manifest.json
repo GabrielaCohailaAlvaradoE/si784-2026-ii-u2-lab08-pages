@@ -1,0 +1,98 @@
+{
+  "docfx_version": "2.81.0+ba844df625370a6bd7c1ecab0d0ec4d1d9128ac4",
+  "source_base_path": "D:/2026 II/CALIDAD Y PRUEBAS DE SOFTWARE/UNIDAD 2/si784-2026-ii-si784-2026-ii-u2-lab08-gabrielacohailaalvaradoe/Bank/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bank.Domain.Cliente.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bank.Domain.Cliente.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Bank.Domain.Cliente",
+      "Summary": "<p sourcefile=\"api/Bank.Domain.Cliente.yml\" sourcestartlinenumber=\"1\">Representa a un cliente del banco.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bank.Domain.CuentaAhorro.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bank.Domain.CuentaAhorro.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Bank.Domain.CuentaAhorro",
+      "Summary": "<p sourcefile=\"api/Bank.Domain.CuentaAhorro.yml\" sourcestartlinenumber=\"1\">Representa una cuenta de ahorro de un cliente.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bank.Domain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bank.Domain.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Bank.Domain",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
